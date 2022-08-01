@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820773075433",
+    "project_id": "trackingapp-bce47",
+    "storage_bucket": "trackingapp-bce47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820773075433:android:5ad767ca0d03e4009d7378",
+        "android_client_info": {
+          "package_name": "com.snappretail.trackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820773075433-mf102sg3eerinobuhp47kk7ggrs5m5j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH2HiRZYCC6Cdo7ss_bZj4Kxrvv1_RgT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820773075433-mf102sg3eerinobuhp47kk7ggrs5m5j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

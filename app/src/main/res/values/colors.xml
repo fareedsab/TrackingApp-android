@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#D14237</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="whitelight">#9CFFFFFF</color>
+    <color name="white">#FFF6F6</color>
+    <color name="colorPrimary">#1C2935</color>
+    <color name="colorPrimaryDark">#ED1C24</color>
+    <color name="colorAccent">#ED1C24</color>
+    <color name="cardcolor">#1C2935</color>
+    <color name="transparent">#001C2935</color>
+    <color name="gradient_start">#22ED1C24</color>
+    <color name="gradient_start2">#4AED1C24</color>
+    <color name="gradient_end">#2AFFFFFF</color>
+    <color name="black">#030303</color>
+    <color name="lightblack">#41ECEAEA</color>
+    <color name="lightblack2">#41E4E2E2</color>
+    <color name="btnColor">#ED1C24</color>
+    <color name="btn_border_color">#DEE3EB</color>
+    <color name="title_font">#273240</color>
+    <color name="subtitle">#CB2C3A4B</color>
+    <color name="greyLine">#E2E2E2</color>
+    <color name="lightgreen">#4FD18B</color>
+    <color name="login_font_color">#A7AFB7</color>
+    <color name="editTextColor">#777777</color>
+    <color name="subtitle_mainScreen_color">#777777</color>
+    <color name="cardBg">#F6F8FC</color>
+    <color name="otp_line_color">#9B9B9B</color>
+    <color name="gray">#7C7878</color>
+
+
+</resources>
